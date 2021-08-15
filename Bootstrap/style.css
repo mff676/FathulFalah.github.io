@@ -1,0 +1,14 @@
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #e2deff;
+}
+#project {
+  background-color: #e2deff;
+}
+#kontak #link li a:hover {
+  text-decoration: underline;
+  color: salmon;
+}
+section {
+  padding-top: 5rem;
+}
